@@ -1,13 +1,11 @@
-import SectionContainer from '@/components/utils/SectionContainer';
-import TitleSectionPageContainer from '@/components/utils/TitleSectionPageContainer';
-import AnimationContainer from '@/components/utils/AnimationContainer';
-import ShowSkills from '@/components/utils/ShowSkills';
-import { skills } from '@/components/utils/mySkills';
 import CurrentTimeLineExp, {
   calculateDuration
 } from '@/components/content/CurrentTimeLineExp';
 import ProcessWork from '@/components/content/ProcessWork';
 import Skills from '@/components/content/Skills';
+import AnimationContainer from '@/components/utils/AnimationContainer';
+import SectionContainer from '@/components/utils/SectionContainer';
+import TitleSectionPageContainer from '@/components/utils/TitleSectionPageContainer';
 
 const AboutPage = () => {
   return (

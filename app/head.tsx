@@ -13,9 +13,9 @@ const Head = () => {
     title: `Khairul Islam Hasib ${
       pathname === '/' ? '' : '· ' + titleFixedToShow
     }`,
-    description: `Hi! My name is Khairul Islam Hasib I'm from Venezuela and I have +3 year of work experience in JavaScript and React, I'm a lover of page design or other things and whenever I can I try to learn new technologies since I discovered programming at 16. I love what I do and I help others with what I can, I also use in web, mobile and desktop development Next.js, Angular, Ionic and Electron implementing good practices, clean architecture, pixel perfect and agile methodologies.`,
+    description: `Creative script writer with 3+ years of storytelling expertise. Based in Bangladesh, I craft compelling narratives across various mediums, from screenplays to digital content. My passion lies in weaving engaging stories that resonate with audiences worldwide. Combining traditional storytelling techniques with modern narrative structures, I specialize in creating authentic, emotionally-driven content. Always exploring new storytelling formats and collaborating with diverse creative teams.`,
     keywords:
-      'Hasib, Hasib portafolio, Hasib github, Hasib LinkedIn, Web, Desarrollo web, Programador web, Diseño web, Paginas web, Aplicaciones web, Aplicaciones móviles, Aplicaciones escritorio, Desarrollo frontend, Programador frontend, HTML, CSS, Javascript, Typescript, React, Angular.',
+      'Khairul Islam Hasib, Script Writer, Screenwriter, Content Writer, Creative Writing, Storytelling, Narrative Design, Digital Content, Screenplay Writing, Story Development, Creative Professional, Bangladesh Writer, Professional Writer, Dialogue Writing, Character Development',
     type: 'website'
   };
 
